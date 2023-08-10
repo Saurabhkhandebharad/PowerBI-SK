@@ -1,8 +1,8 @@
 # PowerBI - Saurabh Khandebharad
 # 📋 Dashboard👇
-## Improving Customer Experience through Zomato Data Analysis with Power BI
+## Restaurant recommendation system using Zomato’s data on the food industry in Bangalore
 
-_<div align="center">Restaurant recommendation system using Zomato’s data on the food industry in Bangalore. The dashboard allows users to make informed decisions on where to dine or buy lunch from.</div>_
+_<div align="center">The dashboard allows users to make informed decisions on where to dine or buy lunch from.</div>_
 ![The Dashboard](https://github.com/Saurabhkhandebharad/PowerBI-SK/assets/104715190/c54fdf0e-09c6-4107-ba2f-169e565aa0ef)
 
 
