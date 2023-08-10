@@ -2,6 +2,8 @@
 # 📋 Dashboard👇
 ## Restaurant recommendation system using Zomato’s data on the food industry in Bangalore
 
+Kaggle Dataset Link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+
 _<div align="center">The dashboard allows users to make informed decisions on where to dine or buy lunch from.</div>_
 ![The Dashboard](https://github.com/Saurabhkhandebharad/PowerBI-SK/assets/104715190/c54fdf0e-09c6-4107-ba2f-169e565aa0ef)
 
@@ -16,9 +18,6 @@ _<div align="center">Selecting restaurant by sorting with respect to 'Preferred 
 
 <hr />
 <br />
-
-Kaggle Dataset Link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
-
 
 
 ### <div align="center">Don't forget to leave a star! ⭐️</div>
